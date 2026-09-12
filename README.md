@@ -1,7 +1,7 @@
 # Hi there, I'm Imran Iqbal 
 ### 📊 Data Analyst & Mathematics Instructor | Certified Google Data Analyst
 
-Welcome to my GitHub profile! I am passionate about turning complex datasets into clear, actionable insights using modern data tools. Having completed the **Google Data Analytics Professional Certificate**, I specialize in data cleaning, exploratory data analysis (EDA), and data visualization.
+Detail-oriented Data Analyst combining a rigorous quantitative background in advanced mathematics with 10 years of experience managing business operations and logistics. Proficient in executing the full data analysis lifecycle—from data cleaning and database management in SQL to exploratory data analysis and visualization using Python (Pandas, NumPy, Matplotlib, Seaborn). Leveraging a strong foundation in statistical modeling and a proven track record of optimizing business processes to translate complex datasets into actionable, strategic insights for decision-makers.
 
 ---
 
