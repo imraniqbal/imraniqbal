@@ -35,7 +35,7 @@ Check out my fully live, interactive portfolio and academic CV built with Hugo:
 
 ### 📫 Connect with Me
 - **Portfolio:** [imraniqbal.github.io](https://imraniqbal.github.io/)
-- **Kaggle:** Explore my notebooks and data challenges.
+- **Kaggle:** Explore my notebooks and data challenges. [Kaggle.com/imran495](https://www.kaggle.com/imran495)
 - **Location:** Kharian, Gujrat District, Pakistan
 
 ⭐️ *Always exploring the intersection of Mathematics, Data Science, and Real-world Problem Solving.*
