@@ -20,9 +20,9 @@ Check out my fully live, interactive portfolio and academic CV built with Hugo:
 ---
 
 ### 🚀 Featured Projects & Case Studies
-
-* **Cyclistic Bike-Share Analysis (Capstone Project):** Analyzed historical trip data to uncover distinct usage patterns between casual riders and annual members, formulating data-driven marketing recommendations.
-* **Kaggle Exploratory Data Analysis:** Practicing real-world data cleaning, feature engineering, and statistical modeling using diverse public datasets.
+- *Desi Dairy Farm Financial & Operational Audit (Case Study):* Conducted an end-to-end data analytics and root-cause audit of 7 years of authentic financial and operational ledgers (2019–2025). Differentiated operational cash flows from livestock capital gains, evaluated diet efficiency (Milk-to-Feed ratio), and utilized FAO/NRC dairy benchmarks to diagnose structural procurement and productivity challenges.
+- *Cyclistic Bike-Share Analysis (Capstone Project):* Analyzed historical trip data to uncover distinct usage patterns between casual riders and annual members, formulating data-driven marketing recommendations.
+- *Kaggle Exploratory Data Analysis:* Practicing real-world data cleaning, feature engineering, and statistical modeling using diverse public datasets.
 
 ---
 
