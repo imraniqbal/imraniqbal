@@ -28,7 +28,6 @@ Detail-oriented Data Analyst combining a rigorous quantitative background in adv
 ---
 
 ### 📫 Connect with Me
-- **Portfolio:** [imraniqbal.github.io](https://github.com/imraniqbal/)
 - **Kaggle:** Explore my notebooks and data challenges. [Kaggle.com/imran495](https://www.kaggle.com/imran495)
 - **Location:** Kharian, Gujrat District, Pakistan
 
