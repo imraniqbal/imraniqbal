@@ -5,12 +5,6 @@ Detail-oriented Data Analyst combining a rigorous quantitative background in adv
 
 ---
 
-### 🌐 My Portfolio Website
-Check out my fully live, interactive portfolio and academic CV built with Hugo:
-👉 **[imraniqbal.github.io](https://imraniqbal.github.io/)**
-
----
-
 ### 🛠️ Technical Skills & Tools
 - **Programming & Libraries:** Python (Pandas, NumPy, SymPy, Matplotlib, Seaborn)
 - **Database & Querying:** SQL, Google Sheets
