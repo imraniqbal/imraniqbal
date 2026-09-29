@@ -3,6 +3,9 @@
 
 Detail-oriented Data Analyst combining a rigorous quantitative background in advanced mathematics with 10 years of experience managing business operations and logistics. Proficient in executing the full data analysis lifecycle—from data cleaning and database management in SQL to exploratory data analysis and visualization using Python (Pandas, NumPy, Matplotlib, Seaborn). Leveraging a strong foundation in statistical modeling and a proven track record of optimizing business processes to translate complex datasets into actionable, strategic insights for decision-makers.
 
+[![Download Data Analyst CV](https://img.shields.io/badge/Download-Data_Analyst_CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/imraniqbal/imraniqbal/blob/main/CV-Data%20Analyst.pdf?raw=true)
+&nbsp;&nbsp;
+[![Download Math Tutor CV](https://img.shields.io/badge/Download-Math_Tutor_CV-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/imraniqbal/imraniqbal/blob/main/CV-%20Math%20Tutor.pdf?raw=true)
 ---
 
 ### 🛠️ Technical Skills & Tools
