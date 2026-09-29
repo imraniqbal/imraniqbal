@@ -31,7 +31,15 @@ Detail-oriented Data Analyst combining a rigorous quantitative background in adv
 ---
 
 ### 📫 Connect with Me
-- **Kaggle:** Explore my notebooks and data challenges. [Kaggle.com/imran495](https://www.kaggle.com/imran495)
+
+[![Email](https://img.shields.io/badge/Email-alimran.iqbal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alimran.iqbal@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923000000000)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR_UPWORK_PROFILE)
+
+- **Kaggle:** Explore my notebooks and data challenges at [Kaggle.com/imran495](https://www.kaggle.com/imran495)
 - **Location:** Kharian, Gujrat District, Pakistan
+
+⭐️ *Always exploring the intersection of Mathematics, Data Science, and Real-world Problem Solving.*
 
 ⭐️ *Always exploring the intersection of Mathematics, Data Science, and Real-world Problem Solving.*
